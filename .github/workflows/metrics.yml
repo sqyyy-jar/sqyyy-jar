@@ -1,0 +1,38 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: GitHub metrics
+on:
+  # Schedule updates
+  schedule: [{cron: "* */1 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: sqyyy-jar
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Berlin
+          plugin_code: yes
+          plugin_code_lines: 12
+          plugin_code_load: 100
+          plugin_code_visibility: public
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
