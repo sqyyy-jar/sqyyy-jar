@@ -2,7 +2,7 @@
 name: GitHub metrics
 on:
   # Schedule updates
-  schedule: [{cron: "* */1 * * *"}]
+  schedule: [{cron: "*/59 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -20,12 +20,8 @@ jobs:
           # Options
           user: sqyyy-jar
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity, metadata
           config_timezone: Europe/Berlin
-          plugin_code: yes
-          plugin_code_lines: 12
-          plugin_code_load: 100
-          plugin_code_visibility: public
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
