@@ -20,7 +20,7 @@ jobs:
           # Options
           user: sqyyy-jar
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: Europe/Berlin
           plugin_code: yes
           plugin_code_lines: 12
