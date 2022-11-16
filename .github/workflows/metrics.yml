@@ -19,8 +19,8 @@ jobs:
 
           # Options
           user: sqyyy-jar
-          template: classic
-          base: header, activity, metadata
+          template: terminal
+          base: header, metadata
           config_timezone: Europe/Berlin
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
