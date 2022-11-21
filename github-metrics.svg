@@ -37,19 +37,19 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 21 Nov 2022, 11:09:33
+Last generated: 21 Nov 2022, 12:07:13
 </div>
 <div class="stdin"><span class="ps1-path">sqyyy-jar@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>sqyyy</b> registered=2y, uid=8369, gid=2
-  contributed to 13 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 13 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>1</b> user
 </div>
-<div class="stdin"><span class="ps1-path">sqyyy-jar@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JAVA        </b> [###########         ] 52.61%
-<b>RUST        </b> [#########           ] 42.24%
-<b>KOTLIN      </b> [##                  ] 5.15 %
+<div class="stdin"><span class="ps1-path">sqyyy-jar@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JAVA        </b> [###########         ] 53.60%
+<b>RUST        </b> [#########           ] 41.35%
+<b>KOTLIN      </b> [##                  ] 5.05 %
 </div>
 
 
-<footer>Connection reset by 249.173.157.101</footer></pre>
+<footer>Connection reset by 252.33.0.105</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
