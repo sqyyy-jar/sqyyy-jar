@@ -2,7 +2,7 @@
 Hello World 👋, I'm sqyyy
 </h1>
 
-🔭 I’m currently working on my own programming language [leviathan-rs](https://github.com/sqyyy-jar/leviathan-rs).  
+🔭 I’m currently working on my own programming language [roth](https://github.com/sqyyy-jar/roth).  
 🦀 I’m trying to get better at [Rust](https://rust-lang.org).
 
 
