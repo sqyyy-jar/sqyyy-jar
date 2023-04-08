@@ -37,24 +37,24 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 8 Apr 2023, 11:06:44
+Last generated: 8 Apr 2023, 12:07:01
 </div>
 <div class="stdin"><span class="ps1-path">sqyyy-jar@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>sqyyy</b> registered=3y, uid=8369, gid=3
   contributed to 31 repositories <b><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>5</b> users
 </div>
-<div class="stdin"><span class="ps1-path">sqyyy-jar@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>RUST        </b> [############        ] 57.46%
-<b>JAVA        </b> [#######             ] 30.87%
-<b>KOTLIN      </b> [##                  ] 5.24 %
-<b>C#          </b> [#                   ] 4.86 %
-<b>PYTHON      </b> [#                   ] 1.20 %
+<div class="stdin"><span class="ps1-path">sqyyy-jar@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>RUST        </b> [############        ] 57.57%
+<b>JAVA        </b> [#######             ] 30.79%
+<b>KOTLIN      </b> [##                  ] 5.23 %
+<b>C#          </b> [#                   ] 4.85 %
+<b>PYTHON      </b> [#                   ] 1.19 %
 <b>TYPESCRIPT  </b> [#                   ] 0.29 %
 <b>HTML        </b> [#                   ] 0.04 %
 <b>DOCKERFILE  </b> [#                   ] 0.03 %
 </div>
 
 
-<footer>Connection reset by 233.84.235.60</footer></pre>
+<footer>Connection reset by 10.240.158.180</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
