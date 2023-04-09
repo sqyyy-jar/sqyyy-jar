@@ -6,4 +6,4 @@ Hello World 👋, I'm sqyyy
 🦀 I love [Rust](https://rust-lang.org) and try programming as much as possible with it.
 
 
-<!-- ![Metrics](/github-metrics.svg) -->
+![Metrics](/github-metrics.svg)
