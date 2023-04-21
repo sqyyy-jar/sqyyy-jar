@@ -49,37 +49,45 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,39.069207622868596)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">6.0k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,73.04613841524576)">
+                            <g class="tick" opacity="1" transform="translate(0,26.678126977430935)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,107.02306920762288)">
+                            <g class="tick" opacity="1" transform="translate(0,55.2585952330732)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">3.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,83.83906348871547)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,112.41953174435774)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">1.0k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,174.97693079237715)">
+                            <g class="tick" opacity="1" transform="translate(0,169.58046825564227)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−1.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,198.16093651128452)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,208.95386158475424)">
+                            <g class="tick" opacity="1" transform="translate(0,226.7414047669268)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−3.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,255.32187302256906)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,242.9307923771314)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−6.0k</text>
-                            </g>
                         </g>
-                        <path d="M39,140.5L101.813,140.5L152.063,140.5L164.625,140.5L177.188,140.5L189.75,140.5L202.313,140.5L214.875,140.5L227.438,140.5L240,140.5L265.125,140.5L277.688,140.5L290.25,140.5L302.813,140.5L315.375,140.5L327.938,140.5L340.5,140.5L353.063,140.5L365.625,140.5L378.188,140.5L390.75,140.5L403.313,140.5L415.875,140.5L428.438,140.5L441,140.5L441,119.536L428.438,96.653L415.875,85.627L403.313,42.358L390.75,28.92L378.188,76.403L365.625,122.662L353.063,5L340.5,43.734L327.938,42.069L315.375,133.908L302.813,99.541L290.25,139.956L277.688,116.852L265.125,130.851L240,74.211L227.438,102.735L214.875,127.623L202.313,94.682L189.75,107.695L177.188,136.695L164.625,139.311L152.063,112.027L101.813,140.109L39,131.428Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L101.813,140.5L152.063,140.5L164.625,140.5L177.188,140.5L189.75,140.5L202.313,140.5L214.875,140.5L227.438,140.5L240,140.5L265.125,140.5L277.688,140.5L290.25,140.5L302.813,140.5L315.375,140.5L327.938,140.5L340.5,140.5L353.063,140.5L365.625,140.5L378.188,140.5L390.75,140.5L403.313,140.5L415.875,140.5L428.438,140.5L441,140.5L441,145.41L428.438,157.913L415.875,176.736L403.313,203.102L390.75,209.745L378.188,165.83L365.625,153.802L353.063,265.076L340.5,174.919L327.938,165.66L315.375,147.499L302.813,147.397L290.25,140.789L277.688,147.567L265.125,141.842L240,148.213L227.438,156.741L214.875,148.298L202.313,161.702L189.75,145.376L177.188,140.755L164.625,140.755L152.063,151.084L101.813,140.517L39,142.607Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L101.813,140.5L189.75,140.5L202.313,140.5L214.875,140.5L227.438,140.5L240,140.5L265.125,140.5L277.688,140.5L302.813,140.5L315.375,140.5L327.938,140.5L353.063,140.5L365.625,140.5L390.75,140.5L415.875,140.5L428.438,140.5L441,140.5L441,111.634L428.438,106.061L415.875,125.953L390.75,131.812L365.625,137.585L353.063,73.879L327.938,5L315.375,131.383L302.813,72.764L277.688,105.575L265.125,129.611L240,28.979L227.438,76.966L214.875,134.841L202.313,88.741L189.75,140.471L101.813,139.843L39,125.238Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L101.813,140.5L189.75,140.5L202.313,140.5L214.875,140.5L227.438,140.5L240,140.5L265.125,140.5L277.688,140.5L302.813,140.5L315.375,140.5L327.938,140.5L353.063,140.5L365.625,140.5L390.75,140.5L415.875,140.5L428.438,140.5L441,140.5L441,148.188L428.438,142.186L415.875,149.303L390.75,142.615L365.625,145.416L353.063,192.717L327.938,215.209L315.375,149.446L302.813,151.618L277.688,152.047L265.125,142.186L240,153.476L227.438,167.823L214.875,143.387L202.313,167.166L189.75,140.557L101.813,140.529L39,144.044Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -98,14 +106,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.74183348558267" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="251.74183348558267" y="0" width="130.95469422077568" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="382.6965277063584" y="0" width="28.493921116683506" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="411.1904488230419" y="0" width="21.612431613823034" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="432.8028804368649" y="0" width="20.290120730716257" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="453.0930011675812" y="0" width="5.088415537904041" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.1814167054852" y="0" width="1.2147078929697095" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.3961245984549" y="0" width="0.6038754015450789" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.46901407032138" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="251.46901407032138" y="0" width="131.31128949409288" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="382.7803035644142" y="0" width="28.46304148579371" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.243345050208" y="0" width="21.589009638724104" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="432.8323546889321" y="0" width="20.268131779588465" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="453.10048646852056" y="0" width="5.0829010847341545" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.18338755325476" y="0" width="1.2133914812613937" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.3967790345161" y="0" width="0.6032209654839003" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -117,7 +125,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>54.73%</div>
+                                <div>54.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -163,7 +171,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>28.47%</div>
+                                <div>28.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -174,7 +182,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>4.7%</div>
+                                <div>4.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -185,7 +193,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>1.11%</div>
+                                <div>1.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
