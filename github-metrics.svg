@@ -49,23 +49,23 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,12.381110583768391)">
+                            <g class="tick" opacity="1" transform="translate(0,8.907974263989074)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,38.1048884670147)">
+                            <g class="tick" opacity="1" transform="translate(0,35.32637941119126)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">8.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,63.828666350261045)">
+                            <g class="tick" opacity="1" transform="translate(0,61.74478455839345)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">6.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,89.55244423350734)">
+                            <g class="tick" opacity="1" transform="translate(0,88.16318970559563)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,115.2762221167537)">
+                            <g class="tick" opacity="1" transform="translate(0,114.5815948527978)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
                             </g>
@@ -73,29 +73,29 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,166.7237778832463)">
+                            <g class="tick" opacity="1" transform="translate(0,167.41840514720218)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,192.44755576649263)">
+                            <g class="tick" opacity="1" transform="translate(0,193.8368102944044)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,218.17133364973898)">
+                            <g class="tick" opacity="1" transform="translate(0,220.25521544160657)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−6.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,243.8951115329853)">
+                            <g class="tick" opacity="1" transform="translate(0,246.67362058880875)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−8.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,269.61888941623164)">
+                            <g class="tick" opacity="1" transform="translate(0,273.09202573601095)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L51.182,140.5L99.909,140.5L136.455,140.5L148.636,140.5L160.818,140.5L173,140.5L185.182,140.5L197.364,140.5L209.545,140.5L221.727,140.5L233.909,140.5L258.273,140.5L270.455,140.5L282.636,140.5L294.818,140.5L307,140.5L319.182,140.5L331.364,140.5L343.545,140.5L355.727,140.5L367.909,140.5L380.091,140.5L392.273,140.5L404.455,140.5L416.636,140.5L428.818,140.5L441,140.5L441,85.348L428.818,109.837L416.636,122.095L404.455,98.956L392.273,66.197L380.091,56.023L367.909,91.972L355.727,125.683L343.545,7.933L331.364,67.239L319.182,5L307,135.51L294.818,109.49L282.636,140.088L270.455,122.596L258.273,133.194L233.909,90.313L221.727,111.908L209.545,130.751L197.364,103.483L185.182,112.988L173,137.619L160.818,139.6L148.636,118.429L136.455,140.088L99.909,140.204L51.182,140.011L39,127.046Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L51.182,140.5L99.909,140.5L136.455,140.5L148.636,140.5L160.818,140.5L173,140.5L185.182,140.5L197.364,140.5L209.545,140.5L221.727,140.5L233.909,140.5L258.273,140.5L270.455,140.5L282.636,140.5L294.818,140.5L307,140.5L319.182,140.5L331.364,140.5L343.545,140.5L355.727,140.5L367.909,140.5L380.091,140.5L392.273,140.5L404.455,140.5L416.636,140.5L428.818,140.5L441,140.5L441,157.581L428.818,147.227L416.636,153.413L404.455,167.934L392.273,187.896L380.091,192.925L367.909,159.677L355.727,152.783L343.545,258.315L331.364,166.558L319.182,193.169L307,145.799L294.818,145.722L282.636,140.719L270.455,145.851L258.273,141.516L233.909,146.339L221.727,152.796L209.545,146.404L197.364,156.642L185.182,145.503L173,140.693L160.818,140.693L148.636,148.526L136.455,140.513L99.909,140.513L51.182,141.246L39,142.172Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L51.182,140.5L136.455,140.5L148.636,140.5L185.182,140.5L197.364,140.5L209.545,140.5L221.727,140.5L233.909,140.5L258.273,140.5L270.455,140.5L294.818,140.5L307,140.5L319.182,140.5L331.364,140.5L343.545,140.5L355.727,140.5L380.091,140.5L392.273,140.5L404.455,140.5L416.636,140.5L441,140.5L441,136.537L416.636,139.773L404.455,128.863L392.273,139.641L380.091,128.149L355.727,132.469L343.545,7.047L331.364,74.837L319.182,5L307,136.286L294.818,109.194L270.455,124.358L258.273,135.467L233.909,88.958L221.727,111.136L209.545,137.885L197.364,114.187L185.182,118.163L148.636,139.972L136.455,140.077L51.182,139.998L39,126.683Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L51.182,140.5L136.455,140.5L148.636,140.5L185.182,140.5L197.364,140.5L209.545,140.5L221.727,140.5L233.909,140.5L258.273,140.5L270.455,140.5L294.818,140.5L307,140.5L319.182,140.5L331.364,140.5L343.545,140.5L355.727,140.5L380.091,140.5L392.273,140.5L404.455,140.5L416.636,140.5L441,140.5L441,141.517L416.636,141.002L404.455,145.823L392.273,140.777L380.091,147.858L355.727,151.847L343.545,260.849L331.364,164.316L319.182,194.328L307,144.634L294.818,145.638L270.455,145.837L258.273,141.279L233.909,146.497L221.727,153.128L209.545,141.834L197.364,152.917L185.182,144.634L148.636,140.513L136.455,140.513L51.182,141.266L39,142.217Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -114,14 +114,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.48981278694146" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="258.48981278694146" y="0" width="127.19186035069765" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="385.6816731376391" y="0" width="26.48375509454367" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="412.16542823218276" y="0" width="20.087735328323365" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="432.25316356050615" y="0" width="18.858709760250704" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="451.11187332075684" y="0" width="4.729442128139312" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.8413154488961" y="0" width="3.0296708847473415" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="458.8709863336435" y="0" width="1.1290136663564723" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.3759161866212" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="260.3759161866212" y="0" width="126.00136470610079" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="386.37728089272196" y="0" width="26.235871346277925" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="412.6131522389999" y="0" width="19.899717310879122" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="432.512869549879" y="0" width="18.682195227242133" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="451.1950647771211" y="0" width="4.685175299747947" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.8802400768691" y="0" width="3.001313645668451" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="458.88155372253755" y="0" width="1.1184462774623893" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -133,7 +133,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>56.19%</div>
+                                <div>56.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -144,7 +144,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.76%</div>
+                                <div>5.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -155,7 +155,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>4.1%</div>
+                                <div>4.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -166,7 +166,7 @@
                                 Assembly
                             </div>
                             <small>
-                                <div>0.66%</div>
+                                <div>0.65%</div>
                             </small>
                         </div>
                     </section>
@@ -179,7 +179,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>27.65%</div>
+                                <div>27.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -190,7 +190,7 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>4.37%</div>
+                                <div>4.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -201,7 +201,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>1.03%</div>
+                                <div>1.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -212,7 +212,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>0.25%</div>
+                                <div>0.24%</div>
                             </small>
                         </div>
                     </section>
