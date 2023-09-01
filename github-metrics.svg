@@ -18,58 +18,66 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(69.80952380952381,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(104.7640056022409,0)">
+                            <g class="tick" opacity="1" transform="translate(68.16226708074534,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(138.54551820728292,0)">
+                            <g class="tick" opacity="1" transform="translate(105.61568322981367,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">December</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(173.453081232493,0)">
+                            <g class="tick" opacity="1" transform="translate(144.3175465838509,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2023</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(208.3606442577031,0)">
+                            <g class="tick" opacity="1" transform="translate(183.01940993788818,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">February</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(239.89005602240897,0)">
+                            <g class="tick" opacity="1" transform="translate(217.97593167701862,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">March</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(274.750700280112,0)">
+                            <g class="tick" opacity="1" transform="translate(256.62577639751555,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(308.5322128851541,0)">
+                            <g class="tick" opacity="1" transform="translate(294.07919254658384,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">May</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(343.4397759103642,0)">
+                            <g class="tick" opacity="1" transform="translate(332.7810559006211,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">June</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(377.2212885154062,0)">
+                            <g class="tick" opacity="1" transform="translate(370.23447204968943,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(412.12885154061627,0)">
+                            <g class="tick" opacity="1" transform="translate(408.93633540372673,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">August</text>
                             </g>
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,32.988840175368665)">
+                            <g class="tick" opacity="1" transform="translate(0,12.381110583768391)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">10k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,38.1048884670147)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">8.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,63.828666350261045)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">6.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,89.55244423350734)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,86.99442008768433)">
+                            <g class="tick" opacity="1" transform="translate(0,115.2762221167537)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
                             </g>
@@ -77,17 +85,29 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,195.00557991231565)">
+                            <g class="tick" opacity="1" transform="translate(0,166.7237778832463)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,249.01115982463133)">
+                            <g class="tick" opacity="1" transform="translate(0,192.44755576649263)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
+                            <g class="tick" opacity="1" transform="translate(0,218.17133364973898)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−6.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,243.8951115329853)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−8.0k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,269.61888941623164)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
+                            </g>
                         </g>
-                        <path d="M39,140.5L46.882,140.5L102.059,140.5L109.941,140.5L117.824,140.5L125.706,140.5L133.588,140.5L141.471,140.5L149.353,140.5L157.235,140.5L165.118,140.5L180.882,140.5L188.765,140.5L196.647,140.5L204.529,140.5L212.412,140.5L220.294,140.5L228.176,140.5L236.059,140.5L243.941,140.5L251.824,140.5L259.706,140.5L267.588,140.5L275.471,140.5L283.353,140.5L291.235,140.5L299.118,140.5L307,140.5L314.882,140.5L322.765,140.5L330.647,140.5L338.529,140.5L346.412,140.5L354.294,140.5L362.176,140.5L370.059,140.5L425.235,140.5L433.118,140.5L441,140.5L441,78.745L433.118,130.212L425.235,138.367L370.059,111.094L362.176,17.367L354.294,80.689L346.412,137.881L338.529,116.468L330.647,98.322L322.765,112.417L314.882,104.478L307,128.511L299.118,50.338L291.235,117.143L283.353,109.447L275.471,133.83L267.588,140.095L259.706,140.392L251.824,139.69L243.941,134.37L236.059,72.048L228.176,120.923L220.294,5L212.412,130.023L204.529,75.396L196.647,139.636L188.765,102.912L180.882,125.162L165.118,35.135L157.235,80.473L149.353,120.032L141.471,62.786L133.588,122.813L125.706,134.451L117.824,138.61L109.941,94.163L102.059,139.636L46.882,139.474L39,126.675Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L46.882,140.5L102.059,140.5L109.941,140.5L117.824,140.5L125.706,140.5L133.588,140.5L141.471,140.5L149.353,140.5L157.235,140.5L165.118,140.5L180.882,140.5L188.765,140.5L196.647,140.5L204.529,140.5L212.412,140.5L220.294,140.5L228.176,140.5L236.059,140.5L243.941,140.5L251.824,140.5L259.706,140.5L267.588,140.5L275.471,140.5L283.353,140.5L291.235,140.5L299.118,140.5L307,140.5L314.882,140.5L322.765,140.5L330.647,140.5L338.529,140.5L346.412,140.5L354.294,140.5L362.176,140.5L370.059,140.5L425.235,140.5L433.118,140.5L441,140.5L441,142.795L433.118,144.145L425.235,141.04L370.059,155.487L362.176,150.356L354.294,163.857L346.412,141.634L338.529,148.115L330.647,163.533L322.765,141.661L314.882,143.848L307,144.685L299.118,163.911L291.235,145.252L283.353,141.067L275.471,142.282L267.588,140.527L259.706,140.608L251.824,140.932L243.941,147.089L236.059,191.157L228.176,146.522L220.294,211.625L212.412,151.625L204.529,151.463L196.647,140.959L188.765,151.733L180.882,142.633L165.118,152.759L157.235,166.315L149.353,152.894L141.471,174.389L133.588,145.252L125.706,140.905L117.824,140.905L109.941,157.35L102.059,140.527L46.882,142.066L39,140.662Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L73.957,140.5L82.696,140.5L91.435,140.5L100.174,140.5L108.913,140.5L117.652,140.5L126.391,140.5L135.13,140.5L152.609,140.5L161.348,140.5L170.087,140.5L178.826,140.5L187.565,140.5L196.304,140.5L205.043,140.5L213.783,140.5L222.522,140.5L231.261,140.5L240,140.5L248.739,140.5L257.478,140.5L266.217,140.5L274.957,140.5L283.696,140.5L292.435,140.5L301.174,140.5L309.913,140.5L318.652,140.5L327.391,140.5L336.13,140.5L344.87,140.5L353.609,140.5L362.348,140.5L423.522,140.5L432.261,140.5L441,140.5L441,99.586L432.261,135.6L423.522,139.484L362.348,129.297L353.609,123.034L344.87,112.011L336.13,139.252L327.391,129.053L318.652,120.41L309.913,127.124L301.174,123.342L292.435,134.789L283.696,81.49L274.957,109.837L266.217,122.802L257.478,99.149L248.739,66.197L240,59.933L231.261,91.972L222.522,125.683L213.783,7.933L205.043,67.239L196.304,5L187.565,139.613L178.826,109.49L170.087,140.088L161.348,138.313L152.609,138.095L135.13,90.596L126.391,111.908L117.652,133.297L108.913,126.776L100.174,112.988L91.435,137.619L82.696,139.6L73.957,118.943L39,140.204Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L73.957,140.5L82.696,140.5L91.435,140.5L100.174,140.5L108.913,140.5L117.652,140.5L126.391,140.5L135.13,140.5L152.609,140.5L161.348,140.5L170.087,140.5L178.826,140.5L187.565,140.5L196.304,140.5L205.043,140.5L213.783,140.5L222.522,140.5L231.261,140.5L240,140.5L248.739,140.5L257.478,140.5L266.217,140.5L274.957,140.5L283.696,140.5L292.435,140.5L301.174,140.5L309.913,140.5L318.652,140.5L327.391,140.5L336.13,140.5L344.87,140.5L353.609,140.5L362.348,140.5L423.522,140.5L432.261,140.5L441,140.5L441,142.121L432.261,142.236L423.522,140.757L362.348,146.97L353.609,142.249L344.87,151.626L336.13,141.04L327.391,144.127L318.652,151.471L309.913,141.053L301.174,142.095L292.435,142.494L283.696,158.571L274.957,147.227L266.217,152.925L257.478,165.671L248.739,187.896L240,191.973L231.261,159.677L222.522,152.783L213.783,258.315L205.043,166.558L196.304,193.169L187.565,141.773L178.826,145.722L170.087,140.719L161.348,140.654L152.609,140.757L135.13,146.326L126.391,152.796L117.652,145.105L108.913,144.642L100.174,145.503L91.435,140.693L82.696,140.693L73.957,148.513L39,140.513Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
